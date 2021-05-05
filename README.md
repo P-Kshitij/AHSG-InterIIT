@@ -13,7 +13,7 @@ We briefly explain the salient features of our approach here. In [#Approach](#ap
 #### 1) Simpler and faster models for binary classification
 
 - Binary classification for mobile-theme identification is not a very difficult task.
-- The amount of data being processed in this step is about 4 times that being processed in the other steps. This is because the ratio of mobile-themed to non-mobile themed data is about 1:3, and we only need to do the other tasks on mobile-themed data. 
+- The amount of data being processed in this step is about 4 times that being processed in the other steps. This is because the ratio of mobile-themed to non-mobile themed data is about 1:3, and we only need to do the other tasks on mobile-themed data.
 - Therefore it makes sense to use simpler and faster models for this step.
 
 #### 2) Translation of all data to english for headline generation and sentiment analysis
@@ -63,7 +63,7 @@ We briefly explain the salient features of our approach here. In [#Approach](#ap
          <img src="https://avatars.githubusercontent.com/u/51147966?v=4" width="100px;" alt=""/>
          <br />
          <sub>
-            <b>Ankit</b>
+            <b>Ankit Sinha</b>
          </sub>
       </a>
       <br />
